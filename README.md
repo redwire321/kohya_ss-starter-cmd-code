@@ -16,3 +16,6 @@ just download the cmd file and run.
 - If you have a slow PC, increase Start-Sleep -Seconds 3 to 6 or 7 
 
 Tested on Windows 
+
+
+YES, Claude AI helped me quite a bit with fixing issues, testing, and handling a ton of debugging to make this script stable and clean!
