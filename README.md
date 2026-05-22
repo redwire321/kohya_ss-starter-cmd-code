@@ -8,8 +8,11 @@ What it does:
 - Closes the setup window cleanly
 - Opens the GUI in your browser
 
+Instructions
+just download the cmd file and run.
+
  Notes:
 - If Kohya SS is installed in a different folder, change C:\Users\%USERNAME%\kohya_ss to your own path
-- If you have a slow PC, increase Start-Sleep -Seconds 3 to 5 or 10
+- If you have a slow PC, increase Start-Sleep -Seconds 3 to 6 or 7 
 
 Tested on Windows 
